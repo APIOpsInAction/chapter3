@@ -1,4 +1,0 @@
-audit:
-  branches:
-    main:
-      discovery: true
